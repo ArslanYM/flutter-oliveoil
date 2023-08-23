@@ -1,4 +1,4 @@
-# flutter_oliveoil
+# olive_oil
 
 A new Flutter project.
 
